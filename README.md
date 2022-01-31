@@ -9,13 +9,6 @@
 
 - 🌱 I’m currently learning **React Native, React JS, NodeJS, TypeScript, PHP, WordPress, WooCommerce for my personal projects**
 
-- 🤝 I’m looking for help with **understanding data visualisations.**
-
-- 💬 Ask me about **the reasons for using my approach vs yours. I'd really enjoy some positive criticism 😄**
-
-- 📫 How to reach me **amongash08@gmail.com**
-
-- ⚡ Fun fact **I used to play rugby 🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
